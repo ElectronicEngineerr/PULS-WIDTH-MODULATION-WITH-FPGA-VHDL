@@ -57,6 +57,6 @@ The testbench generates a 10 ns clock period (`clk` signal) and tests the PWM ou
 
 Simulation waits for 100 us to allow observing the generated PWM signals.
 
-![VIVADO - SIMULATION](Ekran görüntüsü 2025-01-23 222422.png)
+![VIVADO - SIMULATION](PULS-WIDTH-MODULATION---FPGA/Ekran görüntüsü 2025-01-23 222422.png)
 
 
