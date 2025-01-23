@@ -55,10 +55,8 @@ The testbench generates a 10 ns clock period (`clk` signal) and tests the PWM ou
 - `duty_cycle2 = "01000000"` (50%).
 - `duty_cycle3 = "10000000"` (75%).
 
-Simulation waits for 1 ms to allow observing the generated PWM signals.
+Simulation waits for 100 us to allow observing the generated PWM signals.
 
-## License
-This project is released under the MIT License. Feel free to use, modify, and distribute it.
+![VIVADO - SIMULATION](Ekran görüntüsü 2025-01-23 222422.png)
 
-## Contact
-For questions or suggestions, please open an issue on GitHub.
+
