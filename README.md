@@ -59,4 +59,6 @@ Simulation waits for 100 us to allow observing the generated PWM signals.
 
 ![VIVADO - SIMULATION](simulationn)
 
+![VIVADO - SIMULATION](stim)
+
 
