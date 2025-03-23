@@ -9,6 +9,7 @@ PULS WIDTH MODULATION - FPGA
 This project implements a PWM (Pulse Width Modulation) generator in VHDL. The generator is configurable for different frequencies and duty cycles. Additionally, it includes a testbench to validate the design in a simulation environment.
 
 ## Features
+
 - Configurable **clock frequency** and **PWM frequency** via generics.
 - Supports three independent PWM outputs with configurable duty cycles:
   - `pwm_out1`: 25% duty cycle.
